@@ -1,0 +1,187 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: black;
+    display: block;
+    height: 110px;
+    width: 100%;
+    border-bottom: solid white;
+
+}
+
+
+ul {
+    margin: 10px;
+    margin-top: 15px;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    display: block;
+    color: white;
+    padding: 4px 50px;
+    font-size: 17px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+    width: 98%;
+    text-transform: uppercase;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+}
+
+p {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 19px;
+}
+
+blockquote {
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 19px;
+    border-right: #e53030 solid 15px;
+    padding-right: 4%;
+    width: 56%;
+    text-align: justify;
+    display: block;
+    margin-left: 205px;
+}
+
+article {
+    background-color: white;
+    width: 80%;
+    float: left;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+aside {
+    margin-top: 5px;
+    background-color: white;
+    width: 18%;
+    float: right;
+    display: inline-block;
+}
+
+footer {
+    background-color: black;
+    height: 20%;
+}
+
+.foto_logo {
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+.bajada {
+
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: -1%;
+    width: 99%;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+}
+
+.contenedor_text {
+    width: 37%;
+    height: auto;
+    margin-left: 39%;
+    margin-top: 20px;
+    display: block;
+    position: absolute;
+
+}
+
+.foto_zapatilla {
+    width: 600px;
+    padding: 25px;
+    border: solid black;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.foto_jordan {
+    width: auto;
+    height: 450px;
+    border: solid 10px black;
+    padding: 25px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: black;
+}
+
+.foto_piesjordan {
+    width: auto;
+    height: 500px;
+    border: solid 10px black;
+    padding: 25px;
+    margin: 20px;
+    margin-top: 40px;
+    margin-left: 50px;
+    display: inline-block;
+    background-color: black;
+}
+
+#posicion_jordan {
+    float: left;
+}
+
+.footer {
+    width: auto;
+    background-color: black;
+    margin-top: 170%;
+    padding-top: -60%;
+}
+
+.foot_logo1 {
+    width: 19%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-top: 30%;
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+.texto_foot {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.foto_aside {
+    width: auto;
+    height: 1610px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
