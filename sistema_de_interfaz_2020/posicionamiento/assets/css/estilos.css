@@ -1,0 +1,141 @@
+.banderas {
+    height: 400px;
+    width: 600px;
+    position: relative;
+    margin: 30px auto;
+    border: solid rgb(158, 158, 158) 15px;
+}
+
+.francia {
+    height: 400px;
+    width: 200px;
+    position: absolute;
+    background-color: blue;
+}
+
+#rojo_francia {
+    background-color: red;
+    right: 0px;
+}
+
+.circulo_japon {
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    position: absolute;
+    top: 19%;
+    left: 29%;
+}
+
+#amarillo_colombia {
+    background-color: yellow;
+}
+
+.colores_colombia {
+    position: absolute;
+    width: 600px;
+    height: 100px;
+    bottom: 0%;
+    background-color: red;
+    border-top: solid 100px blue;
+}
+
+#españa {
+    background-color: red;
+}
+
+.amarillo_españa {
+    background-color: yellow;
+    height: 45%;
+    width: 100%;
+    position: absolute;
+    top: 28%;
+}
+
+.escudo_españa {
+    width: 140px;
+    height: auto;
+    margin: 16px 120px;
+}
+
+#rojo_islandia {
+    background-color: red;
+}
+
+.islandia {
+    background-color: blue;
+    border: white solid 20px;
+    position: absolute;
+    width: 30%;
+    height: 40%;
+}
+
+#cuadrado_arriba {
+    border-top: 0px;
+    border-left: 0px;
+}
+
+#cuadrado_abajo {
+    bottom: 0%;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+
+#cuadrado_derecha_arriba {
+    right: 0%;
+    border-top: 0px;
+    border-right: 0px;
+    width: 57%;
+}
+
+#cuadrado_derecha_abajo {
+    right: 0%;
+    bottom: 0%;
+    border-bottom: 0px;
+    border-right: 0px;
+    width: 57%;
+}
+
+#rojo_chile {
+    background-color: red;
+}
+
+.chile {
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    top: 0px;
+}
+
+#blanco {
+    background-color: white;
+    width: 400px;
+    right: 0px;
+}
+
+#azul {
+    background-color: blue;
+    width: 200px;
+}
+
+.estrella {
+    width: 150px;
+    height: auto;
+    margin: 22px 22px;
+}
+
+#azul_costa {
+    background-color: rgb(0, 0, 161);
+}
+
+.colores_costa {
+    background-color: red;
+    position: absolute;
+    top: 70px;
+    width: 600px;
+    height: 35%;
+    border: white solid 60px;
+    border-left: 0px;
+    border-right: 0px;
+}
